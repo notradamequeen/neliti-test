@@ -1,0 +1,4 @@
+Tell us one thing you are very opinionated about as a developer and why.
+
+As a developer we need to have a patience to learn and also need to be adaptive to catch up with the fast pace.
+We also  need to build our soft skills in understanding the user's need while we maintain the clean and reliable code.
